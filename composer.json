@@ -1,5 +1,5 @@
 {
-    "name": "AndyMac2508/php-site-map-generator",
+    "name": "andymac2508/php-site-map-generator",
     "type": "library",
     "require": {
         "fabpot/goutte": "^3.2",
