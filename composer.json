@@ -3,7 +3,8 @@
     "type": "library",
     "require": {
         "fabpot/goutte": "^3.2",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^6.3",
+        "rapidwebltd/uxdm": "^1.19"
     },
     "license": "LGPL-3.0-only",
     "authors": [
